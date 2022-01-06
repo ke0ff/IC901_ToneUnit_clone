@@ -1,2 +1,10 @@
+*****************************************************************************************************************************************************************
+*
+*
+
 The RevA folder contains the hardware artifacts for the first issue PCB.  This includes the Altium database (PCB and schematic), Gerber files for all PCB-relevant
 layers, NC Drill file, schematic (pdf), and BOM.
+
+*
+*
+*****************************************************************************************************************************************************************
